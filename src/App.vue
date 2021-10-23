@@ -10,8 +10,12 @@ export default {
   name: 'App',
   components: {
     Header
-    
   },
+  data(){
+    return{
+      
+    }
+  }
 }
 </script>
 
