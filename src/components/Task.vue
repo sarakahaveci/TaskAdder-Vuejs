@@ -17,11 +17,12 @@ export default {
 </script>
 <style scoped>
 .fas{
+  margin-left:95%;
       color: red;
 }
 .task {
   background: #f4f4f4;
-  margin: 5px;
+  margin: 10px;
   padding: 10px 20px;
   cursor: pointer;
 }

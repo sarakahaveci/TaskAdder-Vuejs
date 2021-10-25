@@ -1,6 +1,6 @@
 <template>
     <header>
-        <h1>Task Tracker</h1>
+        <h1>Task Adder</h1>
    <Button @toggle-add-task="$emit('toggle-add-task')"
     text="Add Task" color="green"/>
     </header>
