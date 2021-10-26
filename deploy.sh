@@ -8,7 +8,7 @@ git init
 git add -A
 git commit -m "new deployment"
 
-git push
+git push -f git@github.com:pragmatic-reviews/vue-pages.git master:gh-pages
 
 cd -
 # build
