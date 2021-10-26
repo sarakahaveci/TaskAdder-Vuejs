@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/TaskAdder/'
+  publicPath: '/TaskAdder-Vuejs/'
 }
